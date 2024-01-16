@@ -1,0 +1,4 @@
+/bun-app/node_modules/
+/bun-app/.env
+
+/deno-app/.env
